@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/C sharp-239120?style=flat&logo=csharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
   
