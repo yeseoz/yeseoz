@@ -32,9 +32,13 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  
-  
 
-
-
-  
+## Using Tools
+<p align='left'>
+<img height="40" src="https://img.icons8.com/color/48/000000/visual-studio.png">
+<img height="40" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">
+<img height='40' src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png'>
+<img height="40" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/git.png">
+<img height="40" src="https://img.icons8.com/color/48/000000/raspberry-pi.png">
+<img height="40" src="https://img.icons8.com/color/48/000000/mysql.png">
+</p>
